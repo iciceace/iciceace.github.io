@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://iciceace.github.io/sitemap.txt.gz
+Sitemap: https://iciceace.github.io/app/sitemap.txt.gz
+Sitemap: https://iciceace.github.io/assets/sitemap.txt.gz
+Sitemap: https://iciceace.github.io/css/sitemap.txt.gz
+Sitemap: https://iciceace.github.io/includes/sitemap.txt.gz
+Sitemap: https://iciceace.github.io/item/sitemap.txt.gz
+Sitemap: https://iciceace.github.io/src/sitemap.txt.gz
